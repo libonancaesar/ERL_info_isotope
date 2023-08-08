@@ -1,0 +1,4 @@
+HOR.VER,name,description,start,end,referenceName,referenceDescription,referenceStart,referenceEnd,xOffset,yOffset,zOffset,pitch,roll,azimuth,referenceLatitude,referenceLongitude,referenceElevation,eastOffset,northOffset,xAzimuth,yAzimuth
+"200.000",CFGLOC101391,"Red Butte Creek 2d Wind","2020-08-25T00:00:00Z","2021-06-10T23:59:59Z",CFGLOC101391,"Red Butte Creek 2d Wind","2020-08-25T00:00:00Z","2021-06-10T23:59:59Z",0.00,0.41,3.25,0.00,0.00,90.00,40.782376,-111.805889,1716.91,0.00,0.41,0.00,0.00
+"200.000",CFGLOC101391,"Red Butte Creek 2d Wind","2021-06-11T00:00:00Z",,CFGLOC101391,"Red Butte Creek 2d Wind","2021-06-11T00:00:00Z",,0.00,0.41,3.25,0.00,0.00,0.00,40.782376,-111.805889,1716.91,0.00,0.41,0.00,0.00
+"200.000",CFGLOC101391,"Red Butte Creek 2d Wind","2000-01-01T00:00:00Z","2020-08-24T23:59:59Z",CFGLOC101391,"Red Butte Creek 2d Wind","2000-01-01T00:00:00Z","2020-08-24T23:59:59Z",0.00,0.41,3.25,0.00,0.00,0.00,40.782376,-111.805889,1716.91,0.00,0.41,0.00,0.00

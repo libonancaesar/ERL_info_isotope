@@ -1,0 +1,4 @@
+HOR.VER,name,description,start,end,referenceName,referenceDescription,referenceStart,referenceEnd,xOffset,yOffset,zOffset,pitch,roll,azimuth,referenceLatitude,referenceLongitude,referenceElevation,eastOffset,northOffset,xAzimuth,yAzimuth
+"000.010",CFGLOC106641,"Toolik 2D Wind L1","2010-01-01T00:00:00Z",,TOWER106636,"Toolik Tower","2010-01-01T00:00:00Z",,6.24,2.36,0.39,0.00,0.00,270.00,68.661090,-149.370470,832.06,-6.24,-2.36,270.00,180.00
+"000.020",CFGLOC106648,"Toolik 2D Wind L2","2010-01-01T00:00:00Z",,TOWER106636,"Toolik Tower","2010-01-01T00:00:00Z",,6.24,2.36,1.88,0.00,0.00,270.00,68.661090,-149.370470,832.06,-6.24,-2.36,270.00,180.00
+"000.030",CFGLOC106655,"Toolik 2D Wind L3","2010-01-01T00:00:00Z",,TOWER106636,"Toolik Tower","2010-01-01T00:00:00Z",,6.24,2.36,4.03,0.00,0.00,270.00,68.661090,-149.370470,832.06,-6.24,-2.36,270.00,180.00

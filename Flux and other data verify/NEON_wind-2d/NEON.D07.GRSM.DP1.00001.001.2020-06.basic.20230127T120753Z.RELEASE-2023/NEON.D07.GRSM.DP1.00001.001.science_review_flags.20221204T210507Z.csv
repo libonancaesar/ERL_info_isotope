@@ -1,0 +1,2 @@
+srfID,startDateTime,endDateTime,domainID,siteID,dpID,fieldName,horizontalPosition,verticalPosition,srfValue,srfValueJustification,createDateTime,lastUpdateDateTime
+14173,2019-03-16T00:00:00Z,2020-06-05T00:00:00Z,D07,GRSM,DP1.00001.001,windDirFinalQFSciRvw,000,010,1,"Anemometer seems to have been rotated 90 degrees.",2020-06-05T21:27:32Z,2020-06-05T21:27:32Z

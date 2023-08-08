@@ -1,0 +1,6 @@
+HOR.VER,name,description,start,end,referenceName,referenceDescription,referenceStart,referenceEnd,xOffset,yOffset,zOffset,pitch,roll,azimuth,referenceLatitude,referenceLongitude,referenceElevation,eastOffset,northOffset,xAzimuth,yAzimuth
+"000.010",CFGLOC105424,"Steigerwaldt 2D Wind L1","2010-01-01T00:00:00Z",,TOWER105419,"Steigerwaldt Tower","2010-01-01T00:00:00Z",,2.36,6.27,0.29,0.00,0.00,135.00,45.508950,-89.586360,475.73,2.76,-6.10,225.00,135.00
+"000.020",CFGLOC105430,"Steigerwaldt 2D Wind L2","2010-01-01T00:00:00Z",,TOWER105419,"Steigerwaldt Tower","2010-01-01T00:00:00Z",,2.36,6.27,4.43,0.00,0.00,135.00,45.508950,-89.586360,475.73,2.76,-6.10,225.00,135.00
+"000.030",CFGLOC105436,"Steigerwaldt 2D Wind L3","2010-01-01T00:00:00Z",,TOWER105419,"Steigerwaldt Tower","2010-01-01T00:00:00Z",,2.36,6.28,7.79,0.00,0.00,135.00,45.508950,-89.586360,475.73,2.77,-6.11,225.00,135.00
+"000.040",CFGLOC105442,"Steigerwaldt 2D Wind L4","2010-01-01T00:00:00Z",,TOWER105419,"Steigerwaldt Tower","2010-01-01T00:00:00Z",,2.36,6.28,11.94,0.00,0.00,135.00,45.508950,-89.586360,475.73,2.77,-6.11,225.00,135.00
+"000.050",CFGLOC105448,"Steigerwaldt 2D Wind L5","2010-01-01T00:00:00Z",,TOWER105419,"Steigerwaldt Tower","2010-01-01T00:00:00Z",,2.36,6.22,15.31,0.00,0.00,135.00,45.508950,-89.586360,475.73,2.73,-6.07,225.00,135.00

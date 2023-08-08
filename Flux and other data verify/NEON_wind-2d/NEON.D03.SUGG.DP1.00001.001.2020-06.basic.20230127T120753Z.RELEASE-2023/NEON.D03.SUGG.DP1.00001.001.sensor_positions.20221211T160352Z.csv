@@ -1,0 +1,4 @@
+HOR.VER,name,description,start,end,referenceName,referenceDescription,referenceStart,referenceEnd,xOffset,yOffset,zOffset,pitch,roll,azimuth,referenceLatitude,referenceLongitude,referenceElevation,eastOffset,northOffset,xAzimuth,yAzimuth
+"200.000",CFGLOC110836,"Suggs Lake 2d Wind","2010-01-01T00:00:00Z","2020-12-22T01:26:00Z",CFGLOC110836,"Suggs Lake 2d Wind","2010-01-01T00:00:00Z","2020-12-22T01:26:00Z",0.00,0.41,2.87,0.00,0.00,342.00,29.688413,-82.013638,35.07,0.00,0.41,0.00,0.00
+"200.000",CFGLOC110836,"Suggs Lake 2d Wind","2020-12-22T01:26:00Z","2021-07-15T20:30:00Z",CFGLOC110836,"Suggs Lake 2d Wind","2020-12-22T01:26:00Z","2021-07-15T20:30:00Z",0.00,0.41,2.87,0.00,0.00,72.00,29.688413,-82.013638,35.07,0.00,0.41,0.00,0.00
+"200.000",CFGLOC110836,"Suggs Lake 2d Wind","2021-07-15T20:30:00Z",,CFGLOC110836,"Suggs Lake 2d Wind","2021-07-15T20:30:00Z",,0.00,0.41,2.87,0.00,0.00,342.00,29.688413,-82.013638,35.07,0.00,0.41,0.00,0.00

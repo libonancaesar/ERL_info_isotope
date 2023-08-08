@@ -1,0 +1,5 @@
+HOR.VER,name,description,start,end,referenceName,referenceDescription,referenceStart,referenceEnd,xOffset,yOffset,zOffset,pitch,roll,azimuth,referenceLatitude,referenceLongitude,referenceElevation,eastOffset,northOffset,xAzimuth,yAzimuth
+"000.010",CFGLOC104213,"Guanica Forest 2D Wind L1","2010-01-01T00:00:00Z",,TOWER104207,"Guanica Forest Tower","2010-01-01T00:00:00Z",,-4.23,2.36,0.28,0.00,0.00,90.00,17.969511,-66.868664,125.32,4.23,-2.36,270.00,180.00
+"000.020",CFGLOC104220,"Guanica Forest 2D Wind L2","2010-01-01T00:00:00Z",,TOWER104207,"Guanica Forest Tower","2010-01-01T00:00:00Z",,-4.23,2.36,3.53,0.00,0.00,90.00,17.969511,-66.868664,125.32,4.23,-2.36,270.00,180.00
+"000.030",CFGLOC104227,"Guanica Forest 2D Wind L3","2010-01-01T00:00:00Z",,TOWER104207,"Guanica Forest Tower","2010-01-01T00:00:00Z",,-4.23,2.36,6.90,0.00,0.00,90.00,17.969511,-66.868664,125.32,4.23,-2.36,270.00,180.00
+"000.040",CFGLOC104234,"Guanica Forest 2D Wind L4","2010-01-01T00:00:00Z",,TOWER104207,"Guanica Forest Tower","2010-01-01T00:00:00Z",,-4.23,2.36,12.09,0.00,0.00,90.00,17.969511,-66.868664,125.32,4.23,-2.36,270.00,180.00

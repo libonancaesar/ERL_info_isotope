@@ -1,0 +1,4 @@
+HOR.VER,name,description,start,end,referenceName,referenceDescription,referenceStart,referenceEnd,xOffset,yOffset,zOffset,pitch,roll,azimuth,referenceLatitude,referenceLongitude,referenceElevation,eastOffset,northOffset,xAzimuth,yAzimuth
+"000.010",CFGLOC111471,"Northern Great Plains 2D Wind L1","2010-01-01T00:00:00Z",,TOWER111466,"Northern Great Plains Tower","2010-01-01T00:00:00Z",,6.22,2.36,0.28,0.00,0.00,220.00,46.769727,-100.915360,588.63,-2.19,-6.28,220.00,130.00
+"000.020",CFGLOC111477,"Northern Great Plains 2D Wind L2","2010-01-01T00:00:00Z",,TOWER111466,"Northern Great Plains Tower","2010-01-01T00:00:00Z",,6.22,2.36,1.41,0.00,0.00,220.00,46.769727,-100.915360,588.63,-2.19,-6.28,220.00,130.00
+"000.030",CFGLOC111483,"Northern Great Plains 2D Wind L3","2010-01-01T00:00:00Z",,TOWER111466,"Northern Great Plains Tower","2010-01-01T00:00:00Z",,6.22,2.36,3.58,0.00,0.00,220.00,46.769727,-100.915360,588.63,-2.19,-6.28,220.00,130.00

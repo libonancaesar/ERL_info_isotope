@@ -1,0 +1,2 @@
+srfID,startDateTime,endDateTime,domainID,siteID,dpID,fieldName,horizontalPosition,verticalPosition,srfValue,srfValueJustification,createDateTime,lastUpdateDateTime
+11085,2012-01-01T00:00:00Z,2020-06-05T00:00:00Z,D15,ONAQ,DP1.00001.001,windDirFinalQFSciRvw,000,010,1,"Per ITASK0013711; prior to July 2017 majority of direction data suspect due to inconsistent installation.\n: Reprocessing of data resolved error\n: Further inspection showed flags need to remain in effect.",2019-12-27T00:36:42Z,2020-06-05T21:50:50Z

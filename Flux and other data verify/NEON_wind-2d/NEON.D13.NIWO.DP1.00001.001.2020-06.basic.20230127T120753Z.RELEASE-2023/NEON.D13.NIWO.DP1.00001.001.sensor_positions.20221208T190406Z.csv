@@ -1,0 +1,4 @@
+HOR.VER,name,description,start,end,referenceName,referenceDescription,referenceStart,referenceEnd,xOffset,yOffset,zOffset,pitch,roll,azimuth,referenceLatitude,referenceLongitude,referenceElevation,eastOffset,northOffset,xAzimuth,yAzimuth
+"000.010",CFGLOC109345,"Niwot Ridge 2D Wind L1","2010-01-01T00:00:00Z",,TOWER109340,"Niwot Ridge Tower","2010-01-01T00:00:00Z",,6.24,2.37,0.17,0.00,0.00,225.00,40.054269,-105.582380,3489.99,-2.74,-6.09,225.00,135.00
+"000.020",CFGLOC109352,"Niwot Ridge 2D Wind L2","2010-01-01T00:00:00Z",,TOWER109340,"Niwot Ridge Tower","2010-01-01T00:00:00Z",,6.24,2.37,1.55,0.00,0.00,225.00,40.054269,-105.582380,3489.99,-2.74,-6.09,225.00,135.00
+"000.030",CFGLOC109359,"Niwot Ridge 2D Wind L3","2010-01-01T00:00:00Z",,TOWER109340,"Niwot Ridge Tower","2010-01-01T00:00:00Z",,6.24,2.36,4.04,0.00,0.00,225.00,40.054269,-105.582380,3489.99,-2.74,-6.08,225.00,135.00

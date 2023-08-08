@@ -1,0 +1,4 @@
+HOR.VER,name,description,start,end,referenceName,referenceDescription,referenceStart,referenceEnd,xOffset,yOffset,zOffset,pitch,roll,azimuth,referenceLatitude,referenceLongitude,referenceElevation,eastOffset,northOffset,xAzimuth,yAzimuth
+"200.000",CFGLOC111146,"Little Rock Lake 2d Wind","2010-01-01T00:00:00Z","2018-04-23T23:59:59Z",CFGLOC111146,"Little Rock Lake 2d Wind","2010-01-01T00:00:00Z","2018-04-23T23:59:59Z",0.00,0.41,3.25,0.00,0.00,9.00,46.000952,-89.704038,495.90,0.00,0.41,0.00,0.00
+"200.000",CFGLOC111146,"Little Rock Lake 2d Wind","2018-04-24T00:00:00Z","2019-04-03T23:59:59Z",CFGLOC111146,"Little Rock Lake 2d Wind","2018-04-24T00:00:00Z","2019-04-03T23:59:59Z",0.00,0.41,3.25,0.00,0.00,189.00,46.000952,-89.704038,495.90,0.00,0.41,0.00,0.00
+"200.000",CFGLOC111146,"Little Rock Lake 2d Wind","2019-04-04T00:00:00Z",,CFGLOC111146,"Little Rock Lake 2d Wind","2019-04-04T00:00:00Z",,0.00,0.41,3.25,0.00,0.00,9.00,46.000972,-89.704042,497.21,0.00,0.41,0.00,0.00

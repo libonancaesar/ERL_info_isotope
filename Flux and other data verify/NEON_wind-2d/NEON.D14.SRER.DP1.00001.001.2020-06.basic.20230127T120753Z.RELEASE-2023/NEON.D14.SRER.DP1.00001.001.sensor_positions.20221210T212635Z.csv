@@ -1,0 +1,4 @@
+HOR.VER,name,description,start,end,referenceName,referenceDescription,referenceStart,referenceEnd,xOffset,yOffset,zOffset,pitch,roll,azimuth,referenceLatitude,referenceLongitude,referenceElevation,eastOffset,northOffset,xAzimuth,yAzimuth
+"000.010",CFGLOC104459,"Santa Rita 2D Wind L1","2010-01-01T00:00:00Z",,TOWER104454,"Santa Rita Tower","2010-01-01T00:00:00Z",,2.36,6.22,0.23,0.00,0.00,200.00,31.910711,-110.835470,997.48,5.04,-4.35,200.00,110.00
+"000.020",CFGLOC104465,"Santa Rita 2D Wind L2","2010-01-01T00:00:00Z",,TOWER104454,"Santa Rita Tower","2010-01-01T00:00:00Z",,2.36,6.22,1.62,0.00,0.00,200.00,31.910711,-110.835470,997.48,5.04,-4.35,200.00,110.00
+"000.030",CFGLOC104471,"Santa Rita 2D Wind L3","2010-01-01T00:00:00Z",,TOWER104454,"Santa Rita Tower","2010-01-01T00:00:00Z",,2.36,6.21,3.87,0.00,0.00,200.00,31.910711,-110.835470,997.48,5.03,-4.34,200.00,110.00

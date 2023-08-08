@@ -1,0 +1,6 @@
+HOR.VER,name,description,start,end,referenceName,referenceDescription,referenceStart,referenceEnd,xOffset,yOffset,zOffset,pitch,roll,azimuth,referenceLatitude,referenceLongitude,referenceElevation,eastOffset,northOffset,xAzimuth,yAzimuth
+"000.010",CFGLOC111721,"Dakota Coteau 2D Wind L1","2010-01-01T00:00:00Z",,TOWER111703,"Dakota Coteau Tower","2010-01-01T00:00:00Z",,6.23,2.36,0.28,0.00,0.00,245.00,47.161658,-99.106569,575.30,-4.65,-4.77,245.00,155.00
+"000.020",CFGLOC111725,"Dakota Coteau 2D Wind L2","2010-01-01T00:00:00Z","2020-08-05T22:30:00Z",TOWER111703,"Dakota Coteau Tower","2010-01-01T00:00:00Z",,6.23,2.36,1.56,0.00,0.00,245.00,47.161658,-99.106569,575.30,-4.65,-4.77,245.00,155.00
+"000.020",CFGLOC111725,"Dakota Coteau 2D Wind L2","2020-08-05T22:30:00Z","2021-03-09T18:00:00Z",TOWER111703,"Dakota Coteau Tower","2010-01-01T00:00:00Z",,6.23,2.36,1.56,0.00,0.00,155.00,47.161658,-99.106569,575.30,-4.65,-4.77,245.00,155.00
+"000.020",CFGLOC111725,"Dakota Coteau 2D Wind L2","2021-03-09T18:00:00Z",,TOWER111703,"Dakota Coteau Tower","2010-01-01T00:00:00Z",,6.23,2.36,1.56,0.00,0.00,245.00,47.161658,-99.106569,575.30,-4.65,-4.77,245.00,155.00
+"000.030",CFGLOC111729,"Dakota Coteau 2D Wind L3","2010-01-01T00:00:00Z",,TOWER111703,"Dakota Coteau Tower","2010-01-01T00:00:00Z",,6.22,2.36,4.26,0.00,0.00,245.00,47.161658,-99.106569,575.30,-4.64,-4.77,245.00,155.00

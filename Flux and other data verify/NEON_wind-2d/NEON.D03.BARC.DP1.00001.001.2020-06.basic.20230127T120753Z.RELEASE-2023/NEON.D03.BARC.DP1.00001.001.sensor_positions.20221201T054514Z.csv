@@ -1,0 +1,4 @@
+HOR.VER,name,description,start,end,referenceName,referenceDescription,referenceStart,referenceEnd,xOffset,yOffset,zOffset,pitch,roll,azimuth,referenceLatitude,referenceLongitude,referenceElevation,eastOffset,northOffset,xAzimuth,yAzimuth
+"200.000",CFGLOC110718,"Barco Lake 2d Wind","2010-01-01T00:00:00Z","2020-12-07T00:00:00Z",CFGLOC110718,"Barco Lake 2d Wind","2010-01-01T00:00:00Z","2020-12-07T00:00:00Z",0.57,0.41,2.97,0.00,0.00,16.00,29.676960,-82.009789,27.41,0.57,0.41,0.00,0.00
+"200.000",CFGLOC110718,"Barco Lake 2d Wind","2020-12-07T00:00:00Z","2021-07-13T00:24:00Z",CFGLOC110718,"Barco Lake 2d Wind","2020-12-07T00:00:00Z","2021-07-13T00:24:00Z",0.57,0.41,2.97,0.00,0.00,106.00,29.676960,-82.009789,27.41,0.57,0.41,0.00,0.00
+"200.000",CFGLOC110718,"Barco Lake 2d Wind","2021-07-13T00:24:00Z",,CFGLOC110718,"Barco Lake 2d Wind","2021-07-13T00:24:00Z",,0.57,0.41,2.97,0.00,0.00,16.00,29.676960,-82.009789,27.41,0.57,0.41,0.00,0.00

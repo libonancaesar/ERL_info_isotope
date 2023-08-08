@@ -1,0 +1,5 @@
+HOR.VER,name,description,start,end,referenceName,referenceDescription,referenceStart,referenceEnd,xOffset,yOffset,zOffset,pitch,roll,azimuth,referenceLatitude,referenceLongitude,referenceElevation,eastOffset,northOffset,xAzimuth,yAzimuth
+"000.010",CFGLOC111973,"Poker Flats Watershed 2D Wind L1","2010-01-01T00:00:00Z",,TOWER111958,"Poker Flats Watershed Tower","2010-01-01T00:00:00Z",,2.37,6.25,0.25,0.00,0.00,176.70,65.154044,-147.502561,230.50,-2.01,-6.38,266.70,176.70
+"000.020",CFGLOC111977,"Poker Flats Watershed 2D Wind L2","2010-01-01T00:00:00Z",,TOWER111958,"Poker Flats Watershed Tower","2010-01-01T00:00:00Z",,2.37,6.25,2.81,0.00,0.00,176.70,65.154044,-147.502561,230.50,-2.01,-6.38,266.70,176.70
+"000.030",CFGLOC111981,"Poker Flats Watershed 2D Wind L3","2010-01-01T00:00:00Z",,TOWER111958,"Poker Flats Watershed Tower","2010-01-01T00:00:00Z",,2.36,6.24,5.34,0.00,0.00,176.70,65.154044,-147.502561,230.50,-2.00,-6.37,266.70,176.70
+"000.040",CFGLOC111985,"Poker Flats Watershed 2D Wind L4","2010-01-01T00:00:00Z",,TOWER111958,"Poker Flats Watershed Tower","2010-01-01T00:00:00Z",,2.36,6.24,10.27,0.00,0.00,176.70,65.154044,-147.502561,230.50,-2.00,-6.37,266.70,176.70
