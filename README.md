@@ -17,6 +17,12 @@ The .csv file for generating the Figures in the manuscript.
 #### [Shuffled MI results](/ShuffleMIs/alltime_2023_time_corrected/)
 The mutual information resutls that were used to perform significance test in the manuscript.
 
+### [Full ananlysis results](/code)
+- Script for [data processing](/code/data_processing_docstring.py). 
+- Script for [information analysis](/code/MI_analysis_docstring.py).
+- Script for [shuffled information analysis](/code/shuffle_test.py).
+- Notebook for [all results ananlysis](/code/plot_visualizer.ipynb).
+
 
 
 **Note**: The materials in this repository are associated with __*"Stable isotopes contain substantial additive information about terrestrial carbon and water cycling."*__, which is currently  under reviewer by Environmental Research Letters (ERL).  
