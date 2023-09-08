@@ -36,10 +36,10 @@ def get_ws_data(path):
 
 
 fileList = os.listdir("E:/NEON_iso_MI/Flux and other data")
-ws_path = "E:/NEON_iso_MI/Flux and other data verifty/NEON_wind-2d"
+ws_path = "E:/NEON_iso_MI/Flux and other data verify/NEON_wind-2d"
 ws_site = get_ws_data(ws_path)
 ws_site["VER"] = ws_site["VER"].apply(lambda x: int(x))
-timeoff= pd.read_csv("E:/NEON_iso_MI/Flux and other data verifty/NEON_time_correction.csv")
+timeoff= pd.read_csv("E:/NEON_iso_MI/Flux and other data verify/NEON_time_correction.csv")
 # We used the windspeed dataset to examine if the time label is correct or not
 # start_datetime = pd.to_datetime("2017-07-01 00:00:00")
 # end_datetime = pd.to_datetime("2017-07-31 23:30:00")
@@ -89,7 +89,7 @@ for i in fileList:
             label = "Rich correct T WS data", ls = "dashed", c= "red")
     ax.set_title(site_name + " UTC - " + str(tf))
     ax.legend(loc = "upper right")  
-    fig.savefig(f"../Figures/WS_time_correction_plots/{site_name}_time_correction.png")
+#     fig.savefig(f"../Figures/WS_time_correction_plots/{site_name}_time_correction.png")
     bool_after_adjustment = np.array_equal(ws_data["wspd"], 
                                            time_adjust_data["wspd"],
                                            equal_nan=True)
