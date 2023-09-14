@@ -25,7 +25,7 @@ The mutual information resutls that were used to perform significance test in th
 
 
 
-#### **Note**: The materials in this repository are associated with __*"Stable isotopes contain substantial additive information about terrestrial carbon and water cycling"*__, which is accepted/(now published) by [Environmental Research Letters (ERL)](https://iopscience.iop.org/article/10.1088/1748-9326/acf4ac/meta).  
+#### **Note**: The materials in this repository are associated with __*"Stable isotopes contain substantial additive information about terrestrial carbon and water cycling"*__, which is accepted/(now published) by [Environmental Research Letters (ERL)](https://iopscience.iop.org/article/10.1088/1748-9326/acf4ab/pdf).  
 
 #### **License**
 [MIT](https://choosealicense.com/licenses/mit/)
